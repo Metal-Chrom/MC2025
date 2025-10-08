@@ -1,0 +1,15 @@
+windows-reinstall-guide/
+├─ README.md
+├─ CHECKLIST.md
+├─ INSTALL.md
+├─ backup/
+│  ├─ backup.ps1          # skrypt PowerShell do szybkiego backupu plików + sterowników
+│  └─ export_winget.ps1   # opcjonalnie: export pakietów winget
+├─ docs/
+│  ├─ RESET_KEEP_FILES.md
+│  ├─ INPLACE_REPAIR.md
+│  └─ CLEAN_INSTALL.md
+├─ .gitignore
+├─ LICENSE
+├─ ISSUE_TEMPLATE.md
+└─ PR_TEMPLATE.md
